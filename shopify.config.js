@@ -1,6 +1,6 @@
 export default {
   defaultLocale: 'en',
   storeDomain: 'macs-dev-store.myshopify.com',
-  storefrontToken: '2ee6cbc69488368e277bac386e4da8e1',
+  storefrontToken: '8c57ae2b77d64beb347c795a07340fbd',
   storefrontApiVersion: 'unstable',
 };
